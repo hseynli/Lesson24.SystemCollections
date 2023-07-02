@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\bin\Debug\net6.0\09.Stack.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\bin\Debug\net6.0\09.Stack.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\bin\Debug\net6.0\09.Stack.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\bin\Debug\net6.0\09.Stack.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\bin\Debug\net6.0\09.Stack.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\obj\Debug\net6.0\09.Stack.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\obj\Debug\net6.0\09.Stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\obj\Debug\net6.0\09.Stack.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\obj\Debug\net6.0\09.Stack.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\obj\Debug\net6.0\09.Stack.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\obj\Debug\net6.0\09.Stack.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\obj\Debug\net6.0\refint\09.Stack.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\obj\Debug\net6.0\09.Stack.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\obj\Debug\net6.0\09.Stack.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\09.Stack\obj\Debug\net6.0\ref\09.Stack.dll

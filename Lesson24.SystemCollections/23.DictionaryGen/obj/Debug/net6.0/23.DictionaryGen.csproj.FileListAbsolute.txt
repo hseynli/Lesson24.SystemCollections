@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\bin\Debug\net6.0\23.DictionaryGen.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\bin\Debug\net6.0\23.DictionaryGen.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\bin\Debug\net6.0\23.DictionaryGen.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\bin\Debug\net6.0\23.DictionaryGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\bin\Debug\net6.0\23.DictionaryGen.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\obj\Debug\net6.0\23.DictionaryGen.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\obj\Debug\net6.0\23.DictionaryGen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\obj\Debug\net6.0\23.DictionaryGen.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\obj\Debug\net6.0\23.DictionaryGen.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\obj\Debug\net6.0\23.DictionaryGen.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\obj\Debug\net6.0\23.DictionaryGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\obj\Debug\net6.0\refint\23.DictionaryGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\obj\Debug\net6.0\23.DictionaryGen.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\obj\Debug\net6.0\23.DictionaryGen.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\23.DictionaryGen\obj\Debug\net6.0\ref\23.DictionaryGen.dll

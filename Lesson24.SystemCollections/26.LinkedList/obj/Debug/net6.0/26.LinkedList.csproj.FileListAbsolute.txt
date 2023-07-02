@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\bin\Debug\net6.0\26.LinkedList.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\bin\Debug\net6.0\26.LinkedList.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\bin\Debug\net6.0\26.LinkedList.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\bin\Debug\net6.0\26.LinkedList.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\bin\Debug\net6.0\26.LinkedList.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\obj\Debug\net6.0\26.LinkedList.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\obj\Debug\net6.0\26.LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\obj\Debug\net6.0\26.LinkedList.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\obj\Debug\net6.0\26.LinkedList.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\obj\Debug\net6.0\26.LinkedList.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\obj\Debug\net6.0\26.LinkedList.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\obj\Debug\net6.0\refint\26.LinkedList.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\obj\Debug\net6.0\26.LinkedList.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\obj\Debug\net6.0\26.LinkedList.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\26.LinkedList\obj\Debug\net6.0\ref\26.LinkedList.dll

@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\bin\Debug\net6.0\18.ListDictionary.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\bin\Debug\net6.0\18.ListDictionary.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\bin\Debug\net6.0\18.ListDictionary.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\bin\Debug\net6.0\18.ListDictionary.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\bin\Debug\net6.0\18.ListDictionary.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\obj\Debug\net6.0\18.ListDictionary.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\obj\Debug\net6.0\18.ListDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\obj\Debug\net6.0\18.ListDictionary.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\obj\Debug\net6.0\18.ListDictionary.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\obj\Debug\net6.0\18.ListDictionary.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\obj\Debug\net6.0\18.ListDictionary.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\obj\Debug\net6.0\refint\18.ListDictionary.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\obj\Debug\net6.0\18.ListDictionary.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\obj\Debug\net6.0\18.ListDictionary.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\18.ListDictionary\obj\Debug\net6.0\ref\18.ListDictionary.dll

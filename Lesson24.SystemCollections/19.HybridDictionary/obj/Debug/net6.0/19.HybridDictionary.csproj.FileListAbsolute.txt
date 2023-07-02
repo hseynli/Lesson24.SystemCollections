@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\bin\Debug\net6.0\19.HybridDictionary.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\bin\Debug\net6.0\19.HybridDictionary.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\bin\Debug\net6.0\19.HybridDictionary.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\bin\Debug\net6.0\19.HybridDictionary.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\bin\Debug\net6.0\19.HybridDictionary.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\obj\Debug\net6.0\19.HybridDictionary.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\obj\Debug\net6.0\19.HybridDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\obj\Debug\net6.0\19.HybridDictionary.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\obj\Debug\net6.0\19.HybridDictionary.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\obj\Debug\net6.0\19.HybridDictionary.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\obj\Debug\net6.0\19.HybridDictionary.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\obj\Debug\net6.0\refint\19.HybridDictionary.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\obj\Debug\net6.0\19.HybridDictionary.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\obj\Debug\net6.0\19.HybridDictionary.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\19.HybridDictionary\obj\Debug\net6.0\ref\19.HybridDictionary.dll

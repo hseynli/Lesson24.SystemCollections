@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\bin\Debug\net6.0\22.QueueAndStackGen.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\bin\Debug\net6.0\22.QueueAndStackGen.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\bin\Debug\net6.0\22.QueueAndStackGen.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\bin\Debug\net6.0\22.QueueAndStackGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\bin\Debug\net6.0\22.QueueAndStackGen.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\obj\Debug\net6.0\22.QueueAndStackGen.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\obj\Debug\net6.0\22.QueueAndStackGen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\obj\Debug\net6.0\22.QueueAndStackGen.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\obj\Debug\net6.0\22.QueueAndStackGen.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\obj\Debug\net6.0\22.QueueAndStackGen.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\obj\Debug\net6.0\22.QueueAndStackGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\obj\Debug\net6.0\refint\22.QueueAndStackGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\obj\Debug\net6.0\22.QueueAndStackGen.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\obj\Debug\net6.0\22.QueueAndStackGen.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\22.QueueAndStackGen\obj\Debug\net6.0\ref\22.QueueAndStackGen.dll

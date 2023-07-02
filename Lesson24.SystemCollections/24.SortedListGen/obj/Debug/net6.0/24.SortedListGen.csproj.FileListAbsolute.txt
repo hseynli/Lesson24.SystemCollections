@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\bin\Debug\net6.0\24.SortedListGen.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\bin\Debug\net6.0\24.SortedListGen.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\bin\Debug\net6.0\24.SortedListGen.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\bin\Debug\net6.0\24.SortedListGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\bin\Debug\net6.0\24.SortedListGen.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\obj\Debug\net6.0\24.SortedListGen.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\obj\Debug\net6.0\24.SortedListGen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\obj\Debug\net6.0\24.SortedListGen.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\obj\Debug\net6.0\24.SortedListGen.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\obj\Debug\net6.0\24.SortedListGen.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\obj\Debug\net6.0\24.SortedListGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\obj\Debug\net6.0\refint\24.SortedListGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\obj\Debug\net6.0\24.SortedListGen.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\obj\Debug\net6.0\24.SortedListGen.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\24.SortedListGen\obj\Debug\net6.0\ref\24.SortedListGen.dll

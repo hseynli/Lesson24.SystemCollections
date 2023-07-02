@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\bin\Debug\net6.0\13.Hashtable.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\bin\Debug\net6.0\13.Hashtable.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\bin\Debug\net6.0\13.Hashtable.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\bin\Debug\net6.0\13.Hashtable.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\bin\Debug\net6.0\13.Hashtable.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\obj\Debug\net6.0\13.Hashtable.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\obj\Debug\net6.0\13.Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\obj\Debug\net6.0\13.Hashtable.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\obj\Debug\net6.0\13.Hashtable.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\obj\Debug\net6.0\13.Hashtable.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\obj\Debug\net6.0\13.Hashtable.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\obj\Debug\net6.0\refint\13.Hashtable.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\obj\Debug\net6.0\13.Hashtable.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\obj\Debug\net6.0\13.Hashtable.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\13.Hashtable\obj\Debug\net6.0\ref\13.Hashtable.dll

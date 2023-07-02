@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\bin\Debug\net6.0\05.Queue.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\bin\Debug\net6.0\05.Queue.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\bin\Debug\net6.0\05.Queue.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\bin\Debug\net6.0\05.Queue.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\bin\Debug\net6.0\05.Queue.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\obj\Debug\net6.0\05.Queue.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\obj\Debug\net6.0\05.Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\obj\Debug\net6.0\05.Queue.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\obj\Debug\net6.0\05.Queue.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\obj\Debug\net6.0\05.Queue.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\obj\Debug\net6.0\05.Queue.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\obj\Debug\net6.0\refint\05.Queue.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\obj\Debug\net6.0\05.Queue.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\obj\Debug\net6.0\05.Queue.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\05.Queue\obj\Debug\net6.0\ref\05.Queue.dll

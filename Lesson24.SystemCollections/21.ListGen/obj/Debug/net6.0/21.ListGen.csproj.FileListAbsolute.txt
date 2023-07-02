@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\bin\Debug\net6.0\21.ListGen.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\bin\Debug\net6.0\21.ListGen.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\bin\Debug\net6.0\21.ListGen.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\bin\Debug\net6.0\21.ListGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\bin\Debug\net6.0\21.ListGen.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\obj\Debug\net6.0\21.ListGen.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\obj\Debug\net6.0\21.ListGen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\obj\Debug\net6.0\21.ListGen.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\obj\Debug\net6.0\21.ListGen.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\obj\Debug\net6.0\21.ListGen.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\obj\Debug\net6.0\21.ListGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\obj\Debug\net6.0\refint\21.ListGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\obj\Debug\net6.0\21.ListGen.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\obj\Debug\net6.0\21.ListGen.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\21.ListGen\obj\Debug\net6.0\ref\21.ListGen.dll

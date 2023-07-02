@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\bin\Debug\net6.0\20.OrderedDictionary.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\bin\Debug\net6.0\20.OrderedDictionary.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\bin\Debug\net6.0\20.OrderedDictionary.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\bin\Debug\net6.0\20.OrderedDictionary.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\bin\Debug\net6.0\20.OrderedDictionary.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\obj\Debug\net6.0\20.OrderedDictionary.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\obj\Debug\net6.0\20.OrderedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\obj\Debug\net6.0\20.OrderedDictionary.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\obj\Debug\net6.0\20.OrderedDictionary.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\obj\Debug\net6.0\20.OrderedDictionary.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\obj\Debug\net6.0\20.OrderedDictionary.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\obj\Debug\net6.0\refint\20.OrderedDictionary.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\obj\Debug\net6.0\20.OrderedDictionary.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\obj\Debug\net6.0\20.OrderedDictionary.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\20.OrderedDictionary\obj\Debug\net6.0\ref\20.OrderedDictionary.dll

@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\bin\Debug\net6.0\03.ArrayList.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\bin\Debug\net6.0\03.ArrayList.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\bin\Debug\net6.0\03.ArrayList.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\bin\Debug\net6.0\03.ArrayList.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\bin\Debug\net6.0\03.ArrayList.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\obj\Debug\net6.0\03.ArrayList.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\obj\Debug\net6.0\03.ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\obj\Debug\net6.0\03.ArrayList.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\obj\Debug\net6.0\03.ArrayList.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\obj\Debug\net6.0\03.ArrayList.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\obj\Debug\net6.0\03.ArrayList.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\obj\Debug\net6.0\refint\03.ArrayList.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\obj\Debug\net6.0\03.ArrayList.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\obj\Debug\net6.0\03.ArrayList.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\03.ArrayList\obj\Debug\net6.0\ref\03.ArrayList.dll

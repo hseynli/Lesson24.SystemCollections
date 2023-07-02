@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\bin\Debug\net6.0\25.SortedDictionaryGen.exe
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\bin\Debug\net6.0\25.SortedDictionaryGen.deps.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\bin\Debug\net6.0\25.SortedDictionaryGen.runtimeconfig.json
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\bin\Debug\net6.0\25.SortedDictionaryGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\bin\Debug\net6.0\25.SortedDictionaryGen.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\obj\Debug\net6.0\25.SortedDictionaryGen.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\obj\Debug\net6.0\25.SortedDictionaryGen.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\obj\Debug\net6.0\25.SortedDictionaryGen.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\obj\Debug\net6.0\25.SortedDictionaryGen.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\obj\Debug\net6.0\25.SortedDictionaryGen.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\obj\Debug\net6.0\25.SortedDictionaryGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\obj\Debug\net6.0\refint\25.SortedDictionaryGen.dll
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\obj\Debug\net6.0\25.SortedDictionaryGen.pdb
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\obj\Debug\net6.0\25.SortedDictionaryGen.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson24.SystemCollections\25.SortedDictionaryGen\obj\Debug\net6.0\ref\25.SortedDictionaryGen.dll
